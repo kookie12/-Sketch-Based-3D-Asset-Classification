@@ -1,2 +1,2 @@
-# -Sketch-Based-3D-Asset-Classification
+# Sketch-Based-3D-Asset-Classification
 hahaha!
